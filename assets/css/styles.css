@@ -1,0 +1,7 @@
+.main-button {
+  background-color: rgb(91,61,73);
+  color: white;
+  font-weight: 800;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
